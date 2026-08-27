@@ -1,4 +1,6 @@
-# Storybook Issue #{} Reproduction
+# Storybook Issue #36058 Reproduction
+
+https://github.com/storybookjs/storybook/issues/36058.
 
 Heading anchors seem to have broken in Storybook 10.5.0.
 Clicking the heading link copy button doesn't seem to scroll to the heading any more.
